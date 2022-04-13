@@ -1,0 +1,28 @@
+.gameboard-root {
+  display: grid;
+  background-color: black;
+  grid-template-columns: repeat(3, 1fr);
+  place-items: center;
+  gap: 2px;
+  width: fit-content;
+  margin: auto;
+  margin-top: 1rem;
+}
+
+.gameboard-root div {  
+    display: grid;
+  height: 5rem;
+  width: 5rem;
+  background-color: white;
+  place-items: center;
+  cursor: pointer;
+  transition: .2s;
+}
+
+.gameboard-root div:hover {
+background-color: lightgrey;
+}
+
+.gameboard-root button{
+  cursor: pointer;
+}

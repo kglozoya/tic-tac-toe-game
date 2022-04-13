@@ -1,0 +1,30 @@
+.score-board-root {
+  border: solid black 2px;
+  padding: 1rem;
+  background-color: black;
+  color: white;
+  margin-bottom: 2rem;
+}
+
+.score-board-root h3 {
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+
+.score-board-root .title {
+  font-size: xx-large;
+  border: solid white 1px;
+  width: fit-content;
+  margin: auto;
+  padding: 1rem;
+}
+
+.score-board-root h3 {
+  padding-top: 1rem;
+  font-size: x-large;
+}
+
+.score-board-root .scores {
+  font-size: large;
+  line-height: 2rem;
+}

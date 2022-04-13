@@ -1,3 +1,5 @@
+This game was a group project completed in coding boot camp. Some parts of the game were created as an entire class, while others were created in our small group.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
